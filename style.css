@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 90%;
+  margin: auto;
+  background-image: linear-gradient(90deg, rgba(171, 181, 189, .8), rgba(20, 55, 90, .8)), url(https://static.vecteezy.com/ti/vecteur-libre/p3/7208031-fermier-avec-vache-et-lait-gratuit-vectoriel.jpg);
+  background-size: cover;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+.title {
+  background-color: yellow;
+}
+
+blockquote {
+  max-width: 50%;
+  background-color: #cfcdcd;
+  margin: auto;
+  font-size: 150%;
+  border-left: 3px solid firebrick;
+  padding: 30px 30px 30px 30px;
+}
+
+a {
+  color: blue; /* couleur du texte du lien */
+  text-decoration: underline; /* soulignement du lien */
+  font-weight: bold;
+}
+
+a:hover {
+  color: red; /* couleur du texte du lien au survol */
+  text-decoration: none; /* suppression du soulignement au survol */
+}
+
+a:visited {
+  color: purple;
+}
+
+table{
+  border-collapse: collapse;
+  width: 500px;
+  text-align: center;
+}
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+
+q {
+  font-style: italic;
+}
+
+.good {
+  text-transform: capitalize;
+  color: green;
+}
+
+.bad {
+  text-transform: capitalize;
+  color: red;
+}
+
+li:nth-child(1) {
+  margin: 0;
+  padding: 20px 0 15px 60px;
+  background-image: url(https://raw.githubusercontent.com/DelphineLecorney/CRL-Wilson-2/main/Assets/bien.png?token=GHSAT0AAAAAACAFOVPPVAB5XGWHYRRLPWGAZBC5ABA);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+li:nth-child(2) {
+  margin: 0;
+  padding: 20px 0 15px 60px;
+  background-image: url(https://raw.githubusercontent.com/DelphineLecorney/CRL-Wilson-2/main/Assets/mal.png?token=GHSAT0AAAAAACAFOVPPVMJLR2JTWHL4UX52ZBC5BMA);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+li:nth-child(3) {
+  margin: 0;
+  padding: 20px 0 15px 60px;
+  background-image: url(https://raw.githubusercontent.com/DelphineLecorney/CRL-Wilson-2/main/Assets/chat.png?token=GHSAT0AAAAAACAFOVPOK3KZCPCFMUEEGJL6ZBC5B2Q);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+li:nth-child(4) {
+  text-indent: 60px;
+}
+
+.farmer {
+  border-left: solid;
+  border-color: rgb(214, 117, 38);
+}
+
+.villagers {
+  border-left: solid;
+  border-color: rgb(29, 78, 184);
+}
+
+p {
+  font-family: "Gill Sans Extrabold", sans-serif;
+  font-size: 150%;
+}
+
+.extincteur {
+  float: right;
+  margin: 10px 30px 5px 5px;
+}
+
+.rocher {
+  float: none;
+  margin: 10px 30px 5px 5px;
+}
+
+.oldfFarmer {
+  float: right;
+  margin: 30px 30px 5px 15px;
+}
+
+.notification{
+  background:#424241;
+  padding:.5rem 1rem;
+  border:3px solid #DDDDCC;
+  width:200px;
+  text-align: center;
+  font-weight:bold;
+  color: #f1f1ef;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

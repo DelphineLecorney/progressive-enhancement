@@ -1,0 +1,49 @@
+**h1**
+> "heading 1" en anglais, ce qui est utilisé pour décrire le titre principal ou la première 
+ligne de titre d'un document ou d'une page web.
+
+**h2**
+> "Heading 2" en anglais. C'est une balise de titre utilisée dans la structuration de documents, 
+de pages web ou de présentations pour indiquer un sous-titre ou un titre de niveau inférieur 
+par rapport à H1. En général, H2 est utilisé pour les titres de sections importantes dans un 
+document, et peut être suivi par des sous-titres H3, H4, etc..
+
+**blockquote**
+> "Blockquote" est un élément HTML utilisé pour indiquer qu'un contenu est une citation 
+provenant d'une autre source. Lorsqu'un texte est encadré par une balise "blockquote", 
+cela signifie qu'il s'agit d'une citation distincte du reste du texte et qu'il doit être mis
+en évidence visuellement, généralement avec une indentation, un retrait ou une ligne verticale 
+à gauche ou à droite.
+
+**q**
+> "Q" est une balise HTML qui est utilisée pour indiquer qu'un texte est une citation courte et en ligne. 
+Cette balise est utile pour mettre en évidence une citation à l'intérieur d'un paragraphe de texte.
+> Lorsque la balise "Q" est utilisée, le texte est généralement entouré de guillemets ou de guillemets 
+simples pour indiquer qu'il s'agit d'une citation. 
+
+**img**
+> "Img" est une balise HTML qui est utilisée pour insérer des images dans une page web. Lorsque la balise "img" 
+est utilisée, elle nécessite l'utilisation d'un attribut "src" qui spécifie l'emplacement de l'image que l'on souhaite afficher.
+
+**hr**
+> "HR" est une balise HTML qui est utilisée pour insérer une ligne horizontale dans une page web. 
+L'abréviation "HR" signifie "horizontal rule" en anglais, ce qui signifie règle horizontale en français.
+La balise "HR" est généralement utilisée pour séparer visuellement les différents éléments d'une page web 
+ou pour marquer une transition entre des sections différentes d'une même page.
+La balise "HR" est auto-fermante, ce qui signifie qu'elle ne nécessite pas de balise de fermeture. 
+Voici un exemple de code HTML utilisant la balise "HR" pour insérer une ligne horizontale.
+
+**figure**
+> "Figure" est une balise HTML utilisée pour encapsuler un contenu multimédia, 
+comme une image, une vidéo ou une illustration, ainsi que sa légende associée. 
+La balise "figure" est souvent utilisée pour structurer les éléments multimédia et améliorer 
+l'accessibilité pour les utilisateurs de technologies d'assistance.
+
+> La balise "figure" est généralement utilisée en conjonction avec la balise "figcaption", 
+qui est utilisée pour spécifier une légende décrivant la figure. Voici un exemple de code HTML 
+utilisant les balises "figure" et "figcaption" pour encapsuler une image et sa légende.
+
+**caption**
+> "Caption" est une balise HTML utilisée pour spécifier une légende pour une image, une vidéo ou un contenu 
+multimédia similaire. La balise "caption" est souvent utilisée en conjonction avec la balise "figure" pour fournir 
+une description ou un contexte supplémentaire pour le contenu multimédia.
