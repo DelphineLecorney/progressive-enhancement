@@ -1,5 +1,5 @@
 # progressive-enhancement
-HTML est une question de sémantique
+> HTML is a matter of semantics
 
 *Translate a document into semantic HTML and find, for each of these tags, the origin of their name.*
 
